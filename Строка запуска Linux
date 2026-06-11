@@ -1,0 +1,1 @@
+cat test_Drowning_2_2_data.txt | python3 Drowning_2_2_test.py > result_Drowning_2_2.txt

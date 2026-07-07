@@ -3,8 +3,8 @@ import math
 import re
 
 ALL_DATA=read_zip_all()
-print(ALL_DATA[0])
-print(ALL_DATA[20])
+#print(ALL_DATA[0])
+#print(ALL_DATA[20])
 
 def decimal_to_dms(decimal):
     degrees = int(decimal)
